@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New news of a strange monster found in Stow Woods near Buckingham, of human shape, with a double heart, and no hands, a head with two tongues, and no brains</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52945</idno>
+            <idno type="STC">Wing N688</idno>
+            <idno type="STC">ESTC R12303</idno>
+            <idno type="EEBO-CITATION">13127079</idno>
+            <idno type="OCLC">ocm 13127079</idno>
+            <idno type="VID">97851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New news of a strange monster found in Stow Woods near Buckingham, of human shape, with a double heart, and no hands, a head with two tongues, and no brains</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A satire on Richard Temple.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temple, Richard, --  Sir, 1634-1697 --  Caricatures and cartoons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97851:1"/>
+            <!-- PDF PAGE 54 -->
+            <head>NEW NEWS OF A Strange Monſter FOUND IN STOW WOODS NEAR BUCKINGHAM, OF <hi>Human Shape, with a Double Heart, and no Hands; a Head with Two Tongues, and no Brains.</hi>
+            </head>
+            <p>THere is a Letter lately printed, ſaid to come from an aſſured Hand, in Anſwer to a Letter from a <hi>Freeholder</hi> in <hi>Buckingham<g ref="char:EOLhyphen"/>ſhire,</hi> concerning the late Election of the Knights of the Shire of the County of <hi>Bucks;</hi> which becauſe ſome Falſe Paſſages in it ſhould not abuſe you and the World, I ſhall give you a true Relation of ſome things upon my own knowledge.</p>
+            <p>Sir <hi>R.T.</hi> now much better known, and equally truſted by the Name of Sir <hi>Timber,</hi> in the time of the late <hi>Uſurper,</hi> cut a Chip out of his own Block, and made a Trencher of it, (he began early to deal in Timber) and with it waited upon the <hi>Uſurper</hi> with great <hi>Diligence</hi> and <hi>Obſervance;</hi>
+               <pb n="2" facs="tcp:97851:2"/>
+               <!-- PDF PAGE 55 -->and when any <hi>Fovours</hi> did appear ready to drop from his Highneſs's <hi>Bountiful Noſe,</hi> he was always in readineſs with his Obſequious Inſtrument to inter<g ref="char:EOLhyphen"/>cept the falls, and with great Care did pocket up thoſe Pearls, not doubting but with them to piece up his broken Fortunes, and not be forced to Com<g ref="char:EOLhyphen"/>pound with his Creditors at Six Shillings the Pound, as afterwards he did: But his Maſter dying, and his hopes thereby diſappointed, and the King returning, to Sir <hi>Richard</hi>'s great Grief and Amazement, he quickly ſhifted the Scene, and being well train'd up by his old Maſter, he took up his Principle <hi>Hypocriſie.</hi> And let the World go how it would, he thought that a fruitful Ingredient to a thriving Trade. The firſt Tryal of Skill he made was this: The <hi>Convention</hi> being diſſolv'd, he thought it his Intereſt to fall in with the King's Party, and to ingratiate himſelf with a worthy Gentleman of it, Sir <hi>William Teringham.</hi> Sir <hi>Richard</hi> went in his behalf to the Duke of <hi>Buckingham,</hi> (with whom he had ſome little Acquaintance when the Duke was in his Troubles) and did procure a Letter from the Duke to the Town of <hi>Buckingham,</hi> in the behalf of Sir <hi>William Teringham,</hi> to be choſen Burgeſs of the Town for the enſuing Parliament, and promiſed to deliver it himſelf, and negotiate with the Town in the behalf of the ſaid Sir <hi>William;</hi> and becauſe he would make his Addreſſes more acceptable, he did procure on Mr. <hi>Burton,</hi> a Creature of his own, who then lived in the Town, to let the Burgeſſes know he would build them a Town-Hall; and that they might have good Evidence of the truth of that Promiſe, great ſtore of Timber was ſent into Mr. <hi>Burton</hi>'s Yard, and all hands were ſet at work for this Caſtle in the Air. After this Prologue, down came the Doubty Knight to Act his part, with the Duke's Letter in his Pocket, as his Credentials; but finding that Sir <hi>William Smith</hi>'s Loyalty had engaged all the Burgeſſes for him, and that Sir <hi>Timber</hi> (for now you may ſo call him) was like to hew out no Burgeſhip for himſelf, in caſe he delivered the Duke's Letter in the behalf of his Friend Sir <hi>William Teringham,</hi> he pocketed up the Letter (as he had done the <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi>'s Pearls) which, as if it had been ſpirited into ſome Foreign Plantation, was never heard of more. Let us obſerve his proficiency in Hypocriſie as we go, from a Servant to, and Rebel with the <hi>Uſurper,</hi> without any Recantation he immediately turned <hi>Cavalier,</hi> procur'd the Letter for Sir <hi>William Teringham:</hi> but when he found that would not promote but deſtroy his Deſign, he as quickly deſerted and betray'd his new pretended Friend, and hocuſt the Letter into his Enchanted Caſtle.</p>
+            <p>And yet finding that his Timber would not build up his Intereſt in that Town, unleſs he could prevail with Sir <hi>William Smith,</hi> to drive a Pin for him, he made uſe of divers of Sir <hi>William Smith</hi>'s firſt Wives Relations (who was Sir <hi>Alexander Denson</hi>'s Daughter, and thereby Sir <hi>Timber</hi>'s near Kinſwoman) to importune Sir <hi>William</hi> not to joyn with any other, but to permit Sir <hi>Timber</hi> to be his Partner; but all this would not have done, Mr. <hi>Dormer</hi> would have been too hard for him, if the Timber Argument had not prevailed above the 300 <abbr>
+                  <hi>l</hi>
+               </abbr> pretended to be depoſited by Mr. <hi>Dormer,</hi> and 300 <abbr>
+                  <hi>l</hi>
+               </abbr> more promiſed by Sir <hi>William Smith.</hi> This Pamphleteer muſt needs deal with the Devil, or one of the lying Spirits of <hi>Ahab</hi>'s Prophets was crept into him, otherwiſe, he could never have forged ſo notorious a Lie, both of the Dead and the Living: And I am perſuaded Sir <hi>Timber</hi> himſelf, who
+<pb n="3" facs="tcp:97851:2"/>
+               <!-- PDF PAGE 55 -->wants neither Deceit nor Impudence, hath not Braſs enough to face ſo wooden a Lie, which hath as little Sence as Truth. Six Hundred Pounds is ſuch a Sum as would eaſily have broken his Timber Engin! Fallible Men ſeldom let go ſuch Birds in hand. Well, upon this wooden Horſe our Knight rides to Parliament, and that he might have ſome colour to appear there, he procured a <hi>Red Ribon</hi> to make him a Knight-Errant; but when he found it did in flame the Reckoning, although he went by <hi>Chearing,</hi> he return'd by <hi>Weeping</hi> Croſs: But he was reſolv'd, <hi>per fas &amp; nefas,</hi> to pick up his Crums. When he came firſt into Parliament he was much to ſeek, but a he had pretended to be, ſo he ſet up at firſt for a Royaliſt, but quickly perceiving his Error, and that that poor Party was like to get nothing, he betook himſelf to his old Friend the <hi>Trencher,</hi> and that Venom which he had ſuck'd from his old Maſter the <hi>Uſurper,</hi> or lick'd up under his Table, he threw about the Houſe of Commons for <hi>NUISANCES;</hi> and never left vomiting his Poiſon until he got an Antidote of<note n="*" place="margin">
+                  <hi>Place in the</hi> Cuſtom<g ref="char:EOLhyphen"/>houſe.</note> How he came by it to this day is not known, but moſt People think he got it by Enchantment, and that Satan, who was his Devil Father, when he was named <hi>Timber,</hi> help'd him to it. This Potion was no ſooner down, but it wrought as vehe<g ref="char:EOLhyphen"/>mently the other way, and he befoul'd the Houſe with ſuch ſtinking Matter, that they were forc'd to throw him out, otherwiſe they had all been in great danger of being poiſon'd. You have heard of ſome who have been poſſeſs'd by the Devil, have vomited up <hi>Ink-horns, Pins,</hi> and <hi>Stones, &amp;c.</hi> but this <hi>wooden</hi> Knight hath out-done them all. By virtue of the ſaid Potion he hath ſhit out a mighty Fabric, by the help and aſſiſtance of a new ſort of Sacriledge; for he hath ſtoln away the Parſonage-Houſe that the Inchanted Caſtle might be all of a Piece, and that as the Founda<g ref="char:EOLhyphen"/>tion was laid by <hi>Treachery,</hi> it might be cover'd by <hi>Sacrilege.</hi> But this Potion hath ſerv'd him as the Devil ſerves Witches, gives them great Gifts, but they are ſtill Beggers: So this hath given him a great Houſe, but taken away his <hi>Underſtanding.</hi> For never ſince he took it hath he ſpoken either <hi>Sence</hi> or <hi>Truth.</hi> If any other can be found like him, the Devil may take them both, and he ſhall find them more accompliſh'd, and like himſelf, than any who have ever yet arrived at his Palace. I cannot cloſe my Letter, until I have told you a little Story. Sir <hi>William Smith</hi> had a Tenant who owed him about 200 <abbr>
+                  <hi>l</hi>
+               </abbr> this Tenant had a Siſter who uſually did lie in Sir <hi>Timber</hi>'s Chamber, and when the ſaid Potion wrought, and made his Belly ake, ſhe came and laid a Plaſter of warm Guts to the place, and after a while it gave him eaſe, and he lay very ſtill and quiet all the Night. At other times ſhe gave him a Cliſter, and when ſhe was out of Order, he gave her another: This kind interchange procur'd ſome advantage to the Brother. For Sir <hi>William Smith</hi> coming kindly to viſit Sir <hi>Timber,</hi> being his Neighbour, immediately after he was married, and having ſome diſ<g ref="char:EOLhyphen"/>courſe with him in private, about the Tenant's Debt, the ſaid Sir <hi>Timber,</hi> contrary to all Humanity and the Rules of Hoſpitality, ſwore in Court (I was by and heard, otherwiſe could not have deliver'd it) that Sir <hi>William Smith</hi> ſhould tell him, At that time when he came to viſit him, that for 50 <abbr>
+                  <hi>l</hi>
+               </abbr> he had releaſed the whole Debt; this I have heard Sir <hi>William</hi> proteſt, and I believe it was notoriouſty falſe; but had it been true to betray the private Diſcourſe of a Neighbour, who in kindneſs came to viſit him, could have
+<pb n="4" facs="tcp:97851:3"/>
+               <!-- PDF PAGE 56 -->been done by none but a Man who had taken the Devil's Potion. Let every one beware of him, for it is ſafer coming into a <hi>Peſt-houſe</hi> than his.</p>
+            <p>This Narrative is known to Hundreds of People, and needs no other Evidence, but the Declaring of it, which I held my ſelf bound in Con<g ref="char:EOLhyphen"/>ſcience to do, for the vindication of Truth; but I will be depoſed I never heard Sir <hi>William Smith</hi> ſpeak one word of it but this, That he had no ſuch Diſcourſe with Sir <hi>Timber</hi> in private, as he ſwore in public.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
